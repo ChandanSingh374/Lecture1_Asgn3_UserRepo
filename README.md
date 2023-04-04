@@ -1,3 +1,4 @@
-# Lecture1_Asgn1_UserRepo
+# Lecture1_Asgn3_UserRepo
 
-1. Complete the code in Student class
+1. Complete the code in Point class
+2. Complete the code in Circle class
